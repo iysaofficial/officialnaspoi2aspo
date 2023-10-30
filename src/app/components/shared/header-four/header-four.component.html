@@ -7,25 +7,19 @@
     <div class="container-fluid">
       <div class="row align-items-center">
         <!-- Brand Logo -->
-        <div class="col-xl-4 col-md-6 col-8">
+        <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="site-branding-and-language-selection">
             <div class="brand-logo">
-              <a routerLink="/">
+              <a class="image-logo" routerLink="/" >
                 <img src="assets/img/i2aspo-head.png" alt="logo" />
               </a>
             </div>
-            <!-- <div class="language-selection">
-                            <select class="nice-select" name="language" nice-select>
-                                <option value="en">English</option>
-                                <option value="bn">Bangla</option>
-                            </select>
-                        </div> -->
           </div>
         </div>
         <!-- Desktop and Mobile Menu -->
-        <div class="col-xl-8 col-md-6 col-4 text-center">
+        <div class="col-lg-10 col-md-6 col-sm-6">
           <div
-            class="primary-menu d-flex justify-content-end align-items-center"
+            class="primary-menu d-flex float-end"
           >
             <div class="nav-menu" [ngClass]="navMethod ? 'menu-on' : ''">
               <!-- Navbar Close Icon -->
@@ -43,7 +37,7 @@
                         ? 'menu-item menu-item-has-children'
                         : 'menu-item'
                     "
-                    *ngFor="let item of navigation"
+                    *ngFor="let item of navigation2"
                   >
                     <a
                       href="javascript:void(0)"

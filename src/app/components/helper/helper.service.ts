@@ -1,7 +1,9 @@
 import { Injectable, HostListener, AfterViewInit, OnInit } from '@angular/core';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import data from "../data/navigation.json";
+import data2 from "../data/navigation2.json";
 import footerlinks from "../data/footerlinks.json";
+import footerlinks2 from "../data/footerlinks2.json";
 import $ from 'jquery';
 import 'magnific-popup';
 
@@ -10,7 +12,9 @@ import 'magnific-popup';
 })
 export class HelperService implements AfterViewInit, OnInit {
   public navigation = data;
+  public navigation2 = data2;
   public links = footerlinks;
+  public links2 = footerlinks2;
   windowScrolled: boolean | undefined;
   closeResult: string | undefined;
   constructor(private modalService: NgbModal) { }

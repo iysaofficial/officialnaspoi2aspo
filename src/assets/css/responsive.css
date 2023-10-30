@@ -236,7 +236,7 @@
 
 
 /* Large Device */
-@media only screen and (min-width: 992px) and (max-width : 1199px) {
+@media only screen and (max-width : 768px) {
     .hero-infobox-area .hero-infobox-internal {
         padding: 40px;
     }
@@ -308,7 +308,7 @@
 }
 
 /* Large Device */
-@media only screen and (max-width: 1199px){
+@media only screen and (max-width: 768px){
     .header-area .header-navigation .header-right ul li {
         display: inline-block;
         margin-left: 25px;
@@ -595,7 +595,7 @@
 
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 991px) {
+@media only screen and (max-width : 768px) {
     .header-area .header-navigation .main-menu ul li:first-child .nav-link {
         padding-left: 20px;
     }

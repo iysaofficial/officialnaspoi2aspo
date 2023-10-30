@@ -17,14 +17,6 @@ const routes: Routes = [
       ),
     data: { breadcrumb: 'Homepage' },
   },
-  // {
-  //   path: 'home-v3',
-  //   loadChildren: () =>
-  //     import('./components/pages/home-three/home-three.module').then(
-  //       (m) => m.HomeThreeModule
-  //     ),
-  //   data: { breadcrumb: 'Homepage' },
-  // },
   {
     path: 'i2aspo',
     loadChildren: () =>

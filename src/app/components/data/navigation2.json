@@ -102,6 +102,11 @@
     },
     {
       "id": 6,
+      "link": "/faq2",
+      "linkText": "FAQ"
+    },
+    {
+      "id": 7,
       "linkText": "Guide Book",
       "child": true,
       "submenu": [

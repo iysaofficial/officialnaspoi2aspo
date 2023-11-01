@@ -165,6 +165,22 @@ const routes: Routes = [
     data: { breadcrumb: 'Contact Us' },
   },
   {
+    path: 'faq1',
+    loadChildren: () =>
+      import('./components/pages/faq1/faq1.module').then(
+        (m) => m.Faq1Module
+      ),
+    data: { breadcrumb: 'FAQ' },
+  },
+  {
+    path: 'faq2',
+    loadChildren: () =>
+      import('./components/pages/faq2/faq2.module').then(
+        (m) => m.Faq2Module
+      ),
+    data: { breadcrumb: 'FAQ' },
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./components/pages/error-page/error-page.module').then(

@@ -700,12 +700,13 @@ button {
 }
 .section-title .section-heading-tag .single-heading-tag {
     background: #D3D4F8;
+    font-weight: bold;
     color: #473bf0;
-    font-size: 18px;
-    height: 32px;
-    padding: 0 20px;
+    font-size: 32px;
+    height: auto;
+    padding: 10px 20px;
     border-radius: 50px;
-    line-height: 32px;
+    /* line-height: 32px; */
     font-family: 'CircularStdMedium';
 }
 .section-title .section-heading-tag .single-heading-tag.bordered-tag {
@@ -2762,15 +2763,20 @@ button {
 }
 .header-area.header-v2 .header-navigation .main-menu > ul > li > a:hover{
     color: #f4732a;
+    color: #000000;
+
 }
 .header-area.header-v2 .header-navigation .main-menu > ul > li.menu-item-has-children > a {
     padding-right: 15px;
     padding-left: 0;
+    color: #000000;
 }
 
 .header-area.header-v2 .header-navigation .main-menu ul> li > a {
     padding-left: 0;
     padding-right: 0;
+    color: #000000;
+
 }
 
 .header-area.header-v2 .header-navigation .main-menu > ul > li {
@@ -3041,7 +3047,8 @@ button {
 .breadcrumb-area {
     background-color: #F4F7FA;
     overflow: hidden;
-    padding: 148px 0 153px;
+    margin: 5rem 0 0 0;
+    padding-top: 5rem;
 }
 .breadcrumb-area .section-internal{
     position: relative;
@@ -5966,7 +5973,9 @@ button {
     overflow: hidden;
 }
 .faq-area .faq-content .section-title.section-title-ocean-blue h2 {
-    margin-bottom: 56px;
+    margin-bottom: 2rem;
+    text-align: center;
+    text-decoration: underline #006838;
 }
 .faq-area .section-internal{
     position: relative;
@@ -6056,6 +6065,7 @@ button {
     font-weight: 600;
 }
 .section-accordion .card .card-header .btn-link {
+    text-decoration: none;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

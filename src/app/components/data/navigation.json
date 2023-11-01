@@ -102,6 +102,11 @@
   },
   {
     "id": 6,
+    "link": "/faq1",
+    "linkText": "FAQ"
+  },
+  {
+    "id": 7,
     "linkText": "Buku Panduan",
     "child": true,
     "submenu": [

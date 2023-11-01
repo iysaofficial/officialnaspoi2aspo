@@ -60,7 +60,7 @@
                       (click)="trigger(item)"
                       ><i class="fas fa-angle-down"></i
                     ></span>
-                    <a routerLink="{{ item.link }}" *ngIf="!item.child">{{
+                    <a routerLink="{{ item.link }}" fragment="{{ item.Fragment }}" *ngIf="!item.child">{{
                       item.linkText
                     }}</a>
                     <ul

@@ -16,7 +16,6 @@ import { ServicesComponent } from './services/services.component';
 import { TeamComponent } from './team/team.component';
 import { SearchFormComponent } from './search-form/search-form.component';
 import { FaqsComponent } from './faqs/faqs.component';
-// import { PricingComponent } from './pricing/pricing.component';
 import { BlogsComponent } from './blogs/blogs.component';
 import { NewsletterOneComponent } from './Newsletter/newsletter.component';
 import { PageCtaComponent } from './page-cta/page-cta.component';
@@ -33,7 +32,6 @@ import { PageCtaComponent } from './page-cta/page-cta.component';
     TeamComponent,
     SearchFormComponent,
     FaqsComponent,
-    // PricingComponent,
     NewsletterOneComponent,
     BlogsComponent,
     PageCtaComponent

@@ -17,6 +17,7 @@ import { TeamComponent } from './team/team.component';
 import { SearchFormComponent } from './search-form/search-form.component';
 import { FaqsComponent } from './faqs/faqs.component';
 import { BlogsComponent } from './blogs/blogs.component';
+import { VideoComponent } from './Video/video.components';
 import { NewsletterOneComponent } from './Newsletter/newsletter.component';
 import { PageCtaComponent } from './page-cta/page-cta.component';
 
@@ -25,6 +26,7 @@ import { PageCtaComponent } from './page-cta/page-cta.component';
   declarations: [
     HomeTwoComponent,
     BannerComponent,
+    VideoComponent,
     BlockComponent,
     PartnersComponent,
     AboutComponent,

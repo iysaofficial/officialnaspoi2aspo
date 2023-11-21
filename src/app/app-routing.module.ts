@@ -165,6 +165,14 @@ const routes: Routes = [
     data: { breadcrumb: 'Contact Us' },
   },
   {
+    path: 'contact2',
+    loadChildren: () =>
+      import('./components/pages/contact2/contact.module').then(
+        (m) => m.Contact2Module
+      ),
+    data: { breadcrumb: 'Kontak Kami' },
+  },
+  {
     path: 'faq1',
     loadChildren: () =>
       import('./components/pages/faq1/faq1.module').then(

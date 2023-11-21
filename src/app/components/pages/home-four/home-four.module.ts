@@ -14,6 +14,7 @@ import { AboutTeamComponent } from './about-team/about-team.component';
 import { WhatWeComponent } from './what-we/what-we.component';
 import { TextBlockComponent } from './text-block/text-block.component';
 import { TestimonialsComponent } from './testimonials/testimonials.component';
+import { VideoComponent } from './Video/video.components';
 import { BlogsComponent } from './blogs/blogs.component';
 import { NewsletterComponent } from './newsletter/newsletter.component';
 import { PricingBlockComponent } from '../pricing/pricing-block/pricing-block.component';
@@ -22,6 +23,7 @@ import { PricingBlockComponent } from '../pricing/pricing-block/pricing-block.co
   declarations: [
     HomeFourComponent,
     BannerComponent,
+    VideoComponent,
     WorkProcessComponent,
     AboutComponent,
     AboutTeamComponent,

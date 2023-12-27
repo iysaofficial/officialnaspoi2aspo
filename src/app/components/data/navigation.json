@@ -35,6 +35,11 @@
         "id": 2.3,
         "link": "https://drive.google.com/file/d/16cT0Qixf86IZPAv6qmnKh1Hb51s1x2Fx/view",
         "linkText": "Daftar pemenang 2022"
+      },
+      {
+        "id": 2.4,
+        "link": "https://drive.google.com/file/d/1Lu6vD7BFIfNwbPT9nePayEdXLNaH7kb_/view?usp=sharing",
+        "linkText": "Daftar pemenang 2023"
       }
     ]
   },
@@ -107,13 +112,13 @@
   },
   {
     "id": 7,
-    "linkText": "Buku Panduan",
+    "linkText": "Liputan Media",
     "child": true,
     "submenu": [
       {
-        "id": 6.1,
-        "link": "https://drive.google.com/file/d/1Xxw4GiohJo4eZUPBz1ywJcHWmc0sCsyp/view",
-        "linkText": "Buku Panduan 2023"
+        "id": 7.1,
+        "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
+        "linkText": "Press Release 2023"
       }
     ]
   }

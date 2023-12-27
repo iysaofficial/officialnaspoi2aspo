@@ -189,6 +189,14 @@ const routes: Routes = [
     data: { breadcrumb: 'FAQ' },
   },
   {
+    path: 'listnews',
+    loadChildren: () =>
+      import('./components/pages/news/listnews.module').then(
+        (m) => m.ListNewsModule
+      ),
+    data: { breadcrumb: '' },
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./components/pages/error-page/error-page.module').then(

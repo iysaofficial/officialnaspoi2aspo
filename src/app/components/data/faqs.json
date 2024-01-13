@@ -2,18 +2,18 @@
   "SetelahMendaftar":[
   {
     "id": 1,
-    "title": "1. Minsa, kapan kami akan mendapatkan LoA dan Invoice kami? Dikirimnya kemana sih?",
-    "text": "Panitia akan mengirimkan LoA dan Invoice selambatnya 14 hari kerja setelah kamu mendaftar. LoA dan Invoice akan kami kirimkan ke email ketua tim, jadi pastikan kamu mencantumkan alamat email yang aktif dan benar ya!"
+    "title": "1. Minsa, kapan kami akan mendapatkan LoA kami? Dikirimnya kemana sih?",
+    "text": "Setelah pendaftaran kamu kami terima, kami akan mengirimkan email konfirmasi selambatnya 1X24 jam, dan untuk LoA akan kami kirimkan ke alamat email ketua tim selambatnya 3X24 jam setelah pendaftaran."
   },
   {
     "id": 2,
     "title": "2. Minsa, aku sudah daftar satu minggu yang lalu tapi kok aku belum terima LoA dan Invoice ya?",
-    "text": "Coba deh cek folder spam di email ketua tim kamu, mungkin email dari tim IYSA masuk ke folder spam"
+    "text": "Coba deh cek folder spam di email ketua tim kamu, mungkin email dari tim IYSA masuk ke folder spam."
   },
   {
     "id": 3,
     "title": "3. Upload berkas lomba di mana sih Minsa?",
-    "text": "Upload berkas yang diminta oleh panitia ke link google drive yang sudah kami cantumkan di LoA kamu, pastikan kamu membaca LoA dengan teliti ya!",
+    "text": "Link drive untuk upload berkas dan link untuk upload bukti pembayaran akan dicantumkan di invoice. Kalian akan mendapatkan invoice seperti ini",
     "bagian2": ""
   },
   {

@@ -127,6 +127,11 @@
     "submenu": [
       {
         "id": 7.1,
+        "link": "/listnews",
+        "linkText": "News"
+      },
+      {
+        "id": 7.2,
         "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
         "linkText": "Press Release 2023"
       }

@@ -1,3 +1,33 @@
+.card-img-top{
+    width: 850px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+  }
+  
+  .card-title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .card-text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .card-text .text-muted:hover{
+    color: #473BF0;
+  }
+
+  .card-body .cil {
+    width: 600px;
+  }
+
+
+
 .slick-dots{
     display: block;
     width: 100%;

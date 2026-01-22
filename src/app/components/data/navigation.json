@@ -40,6 +40,16 @@
         "id": 2.4,
         "link": "https://drive.google.com/file/d/1hmqfiRHGPcQJwd43jr4iaYx5TIFlpclH/view?usp=sharing",
         "linkText": "Daftar pemenang 2023"
+      },
+      {
+        "id": 2.5,
+        "link": "https://drive.google.com/file/d/1hmqfiRHGPcQJwd43jr4iaYx5TIFlpclH/view?usp=sharing",
+        "linkText": "Daftar pemenang 2024"
+      },
+      {
+        "id": 2.6,
+        "link": "https://drive.google.com/file/d/1hmqfiRHGPcQJwd43jr4iaYx5TIFlpclH/view?usp=sharing",
+        "linkText": "Daftar pemenang 2025"
       }
     ]
   },
@@ -79,6 +89,16 @@
         "id": 3.4,
         "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
         "linkText": "Kurasi 2023"
+      },
+      {
+        "id": 3.5,
+        "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
+        "linkText": "Kurasi 2024"
+      },
+      {
+        "id": 3.6,
+        "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
+        "linkText": "Kurasi 2025"
       }
     ]
   },
@@ -107,6 +127,16 @@
         "id": 4.4,
         "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
         "linkText": "Galeri 2023"
+      },
+      {
+        "id": 4.5,
+        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
+        "linkText": "Galeri 2024"
+      },
+      {
+        "id": 4.6,
+        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
+        "linkText": "Galeri 2025"
       }
     ]
   },
@@ -134,6 +164,16 @@
         "id": 7.2,
         "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
         "linkText": "Press Release 2023"
+      },
+      {
+        "id": 7.3,
+        "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
+        "linkText": "Press Release 2024"
+      },
+      {
+        "id": 7.4,
+        "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
+        "linkText": "Press Release 2025"
       }
     ]
   }
